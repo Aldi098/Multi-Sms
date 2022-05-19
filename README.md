@@ -29,5 +29,5 @@ $ python Multi.py ( Harus sabar Menunggu )
 ```
 • YouTube
 ```
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Xenzi Gan'z&color=green)](https://youtube.com/channel/UClgRSMeKAeAViJgjwue4dyw)
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Xenzi%20Gan'z&color=green)](https://youtube.com/channel/UClgRSMeKAeAViJgjwue4dyw)
 
