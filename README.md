@@ -23,4 +23,11 @@ $ cd Multi-Sms
 $ python Multi.py ( Harus sabar Menunggu )
 
 ```
+```python
+- Link Key : https://bit.ly/Hw8djd7che
+```
+```
+• YouTube
+```
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Xenzi Gan'z&color=green)](https://youtube.com/channel/UClgRSMeKAeAViJgjwue4dyw)
 
